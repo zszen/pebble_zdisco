@@ -1,0 +1,39 @@
+{
+    "author": "zszen@hotmail.com",
+    "dependencies": {
+        "pebble-clay": "^1.0.0"
+    },
+    "keywords": [],
+    "name": "zdisco",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "ZDisco Modified By Zszen",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "CONFIG_theme",
+            "TYPE",
+            "CONFIG_bgColor",
+            "CONFIG_hourColor",
+            "CONFIG_minuteColor",
+            "CONFIG_gridColor"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "uuid": "7c881ebc-7841-4d00-9e43-4dd8ae825a4c",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.1.0"
+}
